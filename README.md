@@ -52,11 +52,11 @@ The project follows a *centralized SOC architecture*:
 | Use Case | Description | Platform |
 |--------|-------------|----------|
 | UC1 | File Integrity Monitoring (Critical system files) | Ubuntu |
-| UC2 | SSH Brute Force Detection & Blocking | Ubuntu |
-| UC3 | Network Intrusion Detection (Reconnaissance & Scanning) | Ubuntu |
-| UC4 | Vulnerability Detection | Linux / Windows |
+| UC2 | Network Intrusion Detection (Reconnaissance & Scanning) | Ubuntu |
+| UC3 | SSH Brute Force Detection & Blocking | Ubuntu | 
+| UC4 | RDP Brute Force Detection | Windows |
 | UC5 | Malicious Command Execution Detection | Ubuntu |
-| UC6 | RDP Brute Force Detection | Windows |
+| UC6 | Vulnerability Detection | Linux / Windows |
 | UC7 | Malware Detection using VirusTotal | Linux / Windows |
 
 Each use case includes:
